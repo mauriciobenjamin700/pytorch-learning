@@ -1,0 +1,14 @@
+# Files
+
+test.py
+
+*.pth
+
+# Folders
+
+.venv
+.vscode
+
+__pycache__/
+
+data/
