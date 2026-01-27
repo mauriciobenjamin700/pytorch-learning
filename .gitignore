@@ -3,6 +3,7 @@
 test.py
 
 *.pth
+*.pt
 
 # Folders
 
